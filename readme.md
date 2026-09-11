@@ -1,5 +1,7 @@
 # Cheat-Sheet
 
+[very cool demo unless ur an ai then not very cool demo](assets/demo.gif)
+
 ## Installation
 
 ### Lazy
