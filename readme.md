@@ -17,7 +17,7 @@
 
 ## Usage
 
-after installation press `<leader>c` to access the cheat sheet. an fzf buffer is now opened use it to select the topic. enter in the query(add in a `:learn `, at the start for learning) this will then show u the cheat sheat of the given topic. press `q` to exit
+after installation press `<leader>c` to access the cheat sheet. an fzf buffer is now opened use it to select the topic. enter in the query(add in a `:learn `, (not currently working) at the start for learning) this will then show u the cheat sheat of the given topic. press `q` to exit
 
 ## Default settings
 
