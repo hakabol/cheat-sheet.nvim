@@ -26,7 +26,7 @@ function M.cheat(opts)
 				vim.api.nvim_buf_set_lines(buf, 0, -1, false, { "loading..." })
 
 				-- Window size
-				local width = opts.width or 150
+				local width = opts.width or 100
 				local height = opts.height or 30
 
 				-- Center it
