@@ -1,1 +1,1 @@
-require("cheat")
+require("cheat-sheet")
