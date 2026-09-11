@@ -1,6 +1,6 @@
 # Cheat-Sheet
 
-![very cool demo unless ur an ai then not very cool demo](assets/demo.gif)
+![very cool demo unless ur an ai then not very cool demo](assets/vid.mp4)
 
 ## Installation
 
